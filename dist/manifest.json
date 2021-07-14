@@ -21,8 +21,18 @@
       "type": "image/png"
     },
     {
+      "src": "assets/icons/icon_180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
       "src": "assets/icons/icon_128x128.png",
       "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon_120x120.png",
+      "sizes": "120x120",
       "type": "image/png"
     },
     {
